@@ -12,7 +12,7 @@ z-index: 3;
     margin-top: -15px;
     padding: 14px 0;
 }
-@media screen and (max-width:390px) {
+@media screen and (max-width:1081px) {
   .imga {
       object-fit: cover;
       object-position: center;
